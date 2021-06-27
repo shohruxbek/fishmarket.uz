@@ -1,0 +1,9 @@
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: name in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 50
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: tel in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 51
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: msg in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 52
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: id in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 53
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: model in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 54
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: nom in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 55
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: narx in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 56
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: rasm in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 57
+[07-Feb-2020 09:45:08 Asia/Tashkent] PHP Notice:  Undefined index: model in /home/milliykr/fishmarket.uz/includes/passrec.inc.php on line 60
