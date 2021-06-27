@@ -34,10 +34,10 @@ $mail = new PHPMailer;
 //$mail->SMTPDebug = 3;                               // Включить подробный вывод отладки
 
 $mail->isSMTP();                                      // Указываем что используем SMTP
-$mail->Host = 'server1.ahost.uz';  // Укажите SMTP Сервер
+$mail->Host = '';  // Укажите SMTP Сервер
 $mail->SMTPAuth = true;                               // Включение проверки подлинности SMTP
-$mail->Username = 'info@fishmarket.uz';                 // Логин почтового ящика
-$mail->Password = '20hukmdor18*';                           // Пароль 
+$mail->Username = '';                 // Логин почтового ящика
+$mail->Password = '';                           // Пароль 
 $mail->SMTPSecure = 'ssl';                            // Указываем какое подключение используем TLS или SSL в нашем случае SSL
 $mail->Port = 465;                                    // Порт для SSL - 465, TLS 587.
 
